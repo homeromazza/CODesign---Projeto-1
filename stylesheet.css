@@ -11,10 +11,3 @@ table{
 a{
 	text-decoration: none;
 }
-
-body { 
-    background-image: url('teste.png');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: 500px 100px; 
-}
