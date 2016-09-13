@@ -15,6 +15,9 @@ a{
 body {
     background-color: #FAD8D5;
 }
-h5{
-	align: center;
+h5 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
 }
