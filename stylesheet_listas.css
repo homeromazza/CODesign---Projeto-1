@@ -13,20 +13,13 @@ a{
 }
 
 body {
-<<<<<<< HEAD
-    color: #000000;
     background-color: #FAD8D5;
 }
+h5 {
+    text-align: center;
 
-table {
-	color: #123456;
 }
-
-
-=======
-    background-color: #FAD8D5;
-}
-h1{
+h3 {
+    text-align: center;
     color: #5217de;
 }
->>>>>>> 326ed2e59908b2c9ec34df4af6cb8a6f60365516
