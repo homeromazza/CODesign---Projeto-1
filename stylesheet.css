@@ -5,7 +5,7 @@ td{
 }
 
 table{
-    border: 1px solid red;
+    background-color: #99f56f;
 }
 
 a{
@@ -15,6 +15,6 @@ a{
 body {
     background-color: #FAD8D5;
 }
-h5{
-	align: center;
+h1{
+    color: #5217de;
 }
