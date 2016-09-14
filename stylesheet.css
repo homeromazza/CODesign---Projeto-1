@@ -25,3 +25,10 @@ table {
 h1{
     color: #5217de;
 }
+
+.center {
+	float:none;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
