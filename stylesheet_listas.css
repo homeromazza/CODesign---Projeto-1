@@ -5,8 +5,8 @@ td{
 }
 
 table{
-    background-color: #99f56f;
-}
+    background-color: #D8EDD2;
+    }
 
 a{
 	text-decoration: none;
@@ -15,13 +15,13 @@ a{
 body {
     background-color: #FAD8D5;
 }
-h5 {
-    text-align: center;
-    font-family: "Muli"
+h4 {
+    text-align: justify;
+    font-family: "Muli";
 
 }
-h3 {
-    text-align: center;
+h2 {
+    text-align: justify;
     color: #5217de;
-    font-family: "Arvo"
+    font-family: "Arvo";
 }
