@@ -1,7 +1,17 @@
+@font-face {
+    font-family: muli;
+    src: url(Muli.ttf);
+}
+
+@font-face {
+    font-family: arvo;
+    src: url(Arvo-Regular.ttf);
+}
+
+
 td{
     height: 10px;
     width: 1000px;
-    
 }
 
 table{
@@ -15,13 +25,13 @@ a{
 body {
     background-color: #FAD8D5;
 }
-h4 {
+ul li {
     text-align: justify;
-    font-family: "Muli";
-
+    font-family: muli;
+    font-size: 16px;
 }
 h2 {
     text-align: justify;
     color: #5217de;
-    font-family: "Arvo";
+    font-family: arvo;
 }

@@ -1,3 +1,8 @@
+@font-face {
+    font-family: marvel;
+    src: url(Marvel-Regular.ttf);
+}
+
 td{
     height: 10px;
     width: 1000px;
@@ -17,15 +22,10 @@ body {
     background-color: #FAD8D5;
 }
 
-table {
-	color:#99f56f;
-}
-
-
 h1{
     color: #5217de;
     font-size: 64px;	
-    font-family: "Marvel";
+    font-family: marvel;
     text-align: center;	
 }
 
