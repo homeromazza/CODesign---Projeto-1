@@ -3,6 +3,11 @@
     src: url(Marvel-Regular.ttf);
 }
 
+@font-face {
+    font-family: arvo;
+    src: url(Arvo-Regular.ttf);
+}
+
 td{
     height: 10px;
     width: 1000px;
@@ -29,6 +34,14 @@ h1{
     text-align: center;	
 }
 
+p{
+  
+    font-family: arvo;
+}
+
+td{
+    font-family: arvo;
+}
 
 .center {
 	float:none;
