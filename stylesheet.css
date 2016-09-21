@@ -24,7 +24,7 @@ a{
 
 body {
     color: #000000;
-    background-color: #FAD8D5;
+    background-color: #1DA1F2;
 }
 
 h1{
@@ -35,6 +35,11 @@ h1{
 }
 
 p{
+  
+    font-family: arvo;
+}
+
+h4{
   
     font-family: arvo;
 }
