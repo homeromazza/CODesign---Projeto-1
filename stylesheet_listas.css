@@ -19,7 +19,8 @@ table{
     }
 
 a{
-	text-decoration: none;
+    text-decoration: underline;
+    color: #E62000;
 }
 
 body {
