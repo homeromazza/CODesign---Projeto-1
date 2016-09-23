@@ -30,7 +30,7 @@ body {
 }
 
 h1{
-    color: #5217de;
+    color: #b45f06;
     font-size: 64px;	
     font-family: marvel;
     text-align: center;	
@@ -55,4 +55,10 @@ td{
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
+}
+
+img{
+	height: 120px;
+	width: 150px;
+
 }
