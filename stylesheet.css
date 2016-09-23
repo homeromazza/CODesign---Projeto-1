@@ -20,13 +20,13 @@ table{
 }
 
 a{
-	text-decoration: underline;
-    color: #E62000;
+	text-decoration: none;
+    color: #EB2400;
 }
 
 body {
     color: #000000;
-    background-color: #1DD4F2;
+    background-color: #1DEAFF;
 }
 
 h1{
