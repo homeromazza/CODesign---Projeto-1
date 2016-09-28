@@ -62,3 +62,9 @@ img{
 	width: 150px;
 
 }
+
+h2 {
+    text-align: justify;
+    color: #b45f06;
+    font-family: arvo;
+}
